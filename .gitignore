@@ -1,0 +1,6 @@
+# vscode file
+.vscode/
+
+# debug file
+_run/
+*.exe
